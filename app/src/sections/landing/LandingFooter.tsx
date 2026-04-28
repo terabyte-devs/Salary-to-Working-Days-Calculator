@@ -28,7 +28,7 @@ export default function LandingFooter() {
           <p className="text-sm text-muted-foreground font-inter">
             © {new Date().getFullYear()} Is It Worth It? —{" "}
             <a
-              href="https://terabyte.co.za"
+              href="https://www.terabyte.africa/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline"
